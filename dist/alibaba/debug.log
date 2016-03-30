@@ -1,0 +1,6 @@
+[0329/002738:ERROR:process_info.cc(608)] range at 0xeafd35de00000000, size 0x27c fully unreadable
+[0329/002738:ERROR:process_info.cc(608)] range at 0xeafd35fe00000000, size 0x27c fully unreadable
+[0329/002738:ERROR:process_info.cc(608)] range at 0x0, size 0x27c fully unreadable
+[0329/002738:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0329/002738:ERROR:exception_snapshot_win.cc(56)] thread ID 8020 not found in process
+[0329/002738:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed

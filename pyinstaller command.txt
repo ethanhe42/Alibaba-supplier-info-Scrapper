@@ -1,0 +1,1 @@
+python "C:\Program Files\Anaconda\Scripts\pyinstaller-script.py" alibaba.py
