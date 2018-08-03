@@ -8,10 +8,6 @@ login alibaba is not necessary
 """
 developerInfo="\n-------------------------------------\n"\
               "Developed by Yihui He\n" \
-              "QQ:      535505132\n" \
-              "Weixin:  he535505132\n" \
-              "Email:   rex686568@outlook.com\n" \
-              "find me: zhihu.com/people/rex686568\n" \
               "-------------------------------------\n"
 
 debug=False
